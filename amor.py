@@ -1,0 +1,1 @@
+print("amor de cachorro")
